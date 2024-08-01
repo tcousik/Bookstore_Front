@@ -27,3 +27,7 @@ npm install
 Install frontend dependencies:
 cd ../frontend
 npm install
+
+**Running the App**
+
+npm run dev
