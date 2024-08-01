@@ -1,7 +1,7 @@
-Book Collection App
+**Book Collection App**
 This is a simple CRUD (Create, Read, Update, Delete) application built using the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to manage a collection of books by creating, reading, updating, and deleting book records. Each book has a title, author, and year of publication.
 
-Features
+**Features**
 Create: Add new books with a title, author, and year of publication.
 Read: View a list of all books in the collection.
 Update: Edit the details of existing books.
@@ -12,7 +12,7 @@ Express.js: Backend framework to handle API requests.
 React: Frontend library for building user interfaces.
 Node.js: JavaScript runtime for the server.
 
-Installation
+**Installation**
 
 Clone the repository:
 git clone https://github.com/yourusername/book-collection-app.git
