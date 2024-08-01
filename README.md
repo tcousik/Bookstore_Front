@@ -16,7 +16,7 @@ Node.js: JavaScript runtime for the server.
 **Installation**
 
 Clone the repository:
-git clone https://github.com/yourusername/book-collection-app.git
+git clone https://github.com/tcousik/Bookstore_Front.git
 cd book-collection-app
 
 Install backend dependencies:
