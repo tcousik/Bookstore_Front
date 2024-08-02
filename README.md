@@ -16,18 +16,23 @@ Node.js: JavaScript runtime for the server.
 
 **Installation**
 
-Clone the repository:
-git clone https://github.com/tcousik/Bookstore_Front.git
-cd book-collection-app
-
-Install backend dependencies:
-cd backend
-npm install
-
-Install frontend dependencies:
-cd ../frontend
-npm install
-
-**Running the App**
-
-npm run dev
+1. Clone the repo
+   ```sh
+   git clone https://github.com/tcousik/Books.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Open two terminals and navigate to the backend and frontend folders
+      ```sh
+   cd frontend 
+   ```
+      and
+      ```sh
+   cd backend
+   ```
+5. Run the program in localhost
+      ```sh
+   npm run dev
+   ```
